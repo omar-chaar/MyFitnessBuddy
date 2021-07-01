@@ -1,5 +1,5 @@
 # MyFitnessBuddy
-Android healthiness tracker using a REST API. 
+Android health tracker using a REST API. 
 
 ## Table of contents 
 * [Objective of the Application](#objective)
