@@ -29,17 +29,17 @@ The login page has a modern and intuitive design. The user is requested to add l
 ## Registration
 The user is requested to enter a username and password, the code validates it and log in if created successfully 
 
-<img src="https://raw.githubusercontent.com/omar-chaar/MyFitnessBuddy/main/Screenshots%26Gifs/Register.png " alt="Registration Screenshot" width="310"/>
+<img src="https://raw.githubusercontent.com/omar-chaar/MyFitnessBuddy/main/Screenshots%26Gifs/Register.jpg " alt="Registration Screenshot" width="310"/>
 
 <a name="entry"></a>
 ## Entry 
 The image bellow is showing how the user is required of entering data. The current data is saved for future tracking.
 
-<img src="https://raw.githubusercontent.com/omar-chaar/MyFitnessBuddy/main/Screenshots%26Gifs/Entry.png" alt="Entry Screenshot" width="310"/>
+<img src="https://raw.githubusercontent.com/omar-chaar/MyFitnessBuddy/main/Screenshots%26Gifs/Entry.jpg" alt="Entry Screenshot" width="310"/>
 
 <a name="summary"></a>
 ## Summary
 The summary displays all data previously added.
 
-<img src="https://raw.githubusercontent.com/omar-chaar/MyFitnessBuddy/main/Screenshots%26Gifs/Summary.png" alt="Summary Screenshot" width="310"/>
+<img src="https://raw.githubusercontent.com/omar-chaar/MyFitnessBuddy/main/Screenshots%26Gifs/Summary.jpg" alt="Summary Screenshot" width="310"/>
 
